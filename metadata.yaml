@@ -1,0 +1,27 @@
+_repo: Nalkamailta-Kuvia-ja-havaintoja-Koillis-Suomesta-nalkavuodelta-1902_61677
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kajander, Kalle
+    birthdate: 1862
+    deathdate: 1928
+    gutenberg_agent_id: '46417'
+    url: http://www.gutenberg.org/2009/agents/46417
+    wikipedia: https://fi.wikipedia.org/wiki/Kalle_Kajander
+description: ''
+gutenberg_issued: '2020-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61677'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Famines -- Finland'
+- !lcc 'DK'
+- GITenberg
+title: 'Nälkämailta
+
+  Kuvia ja havaintoja Koillis-Suomesta nälkävuodelta 1902'
+url: http://www.gutenberg.org/ebooks/61677
