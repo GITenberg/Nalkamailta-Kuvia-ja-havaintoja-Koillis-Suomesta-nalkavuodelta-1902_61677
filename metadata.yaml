@@ -1,5 +1,8 @@
 _repo: Nalkamailta-Kuvia-ja-havaintoja-Koillis-Suomesta-nalkavuodelta-1902_61677
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kajander, Kalle
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46417
     wikipedia: https://fi.wikipedia.org/wiki/Kalle_Kajander
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61677#Nalkamailta-Kuvia-ja-havaintoja-Koillis-Suomesta-nalkavuodelta-1902
 gutenberg_issued: '2020-03-25'
 gutenberg_type: Text
 identifiers:
